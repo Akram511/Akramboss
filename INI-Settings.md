@@ -3,7 +3,7 @@ Snickerstream stores its settings in an INI file called "settings.ini" located i
 Snickerstream’s settings can be divided into three groups: standard, advanced and interface settings.
 
 # Standard settings
-This group consists of all the core settings that the client needs to function properly. All of them can be changed in the GUI and most users only need to set these in order to have a great streaming setup.
+This group consists of all the core settings that the client needs to function properly. All of them can be changed from the GUI and most users only need to set these in order to have a great streaming setup.
 
 **IpAddr**: The (N)3DS’ IP. It must be a valid IPv4 address, separated by dots.
 
