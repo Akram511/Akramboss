@@ -22,7 +22,7 @@ This group consists of all the core settings that the client needs to function p
 **Layoutmode**: Sets which screen layout will be used when streaming. The accepted values are 0 (Vertical), 1 (Vertical, inverted), 2 (Horizontal), 3 (Horizontal, inverted), 4 (Top only), 5 (Bottom only), and 6 (Fullscreen, top only). The default value is 0.
 
 # Advanced settings
-These settings can only be changed by editing the INI file and don’t need to be changed in most cases. Some of these can result in a bad or laggy streaming setup if misconfigured so it’s recommended to only change these if you know what you’re doing. _Proceed at your own risk!_
+These settings can only be changed by editing the INI file and don’t need to be modified in most cases. Some of these can result in a bad or laggy streaming setup if misconfigured so it’s recommended to not touch them unless you know what you’re doing. _Proceed at your own risk!_
 
 **Loglevel**: Sets the current log level (and thus also specifies whether to create a log file or not). There are three log levels: 1 (only logs basic information), 2 (logs some more in-depth stuff, such as current settings and invalid packet errors) and 3 (logs everything). _Setting the log level to 3 will produce very long log files and, as such, should only be used for debugging purposes!_ Setting this variable to 0 or lower will make Snickerstream not produce a log file, while setting it to anything higher than 3 will have the same effect as log level 3. This variable is set to 0 by default.
 
