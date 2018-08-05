@@ -13,7 +13,7 @@ This group consists of all the core settings that the client needs to function p
 
 **ImageQuality**: Sets the frames’ quality value, ranging from 1 (worst) to 100 (best). NTR sends its frames as a stream of JPEG images which means that the frames will always get compressed, even if you set this variable to 100. Therefore _it is not recommended to set ImageQuality to any value above 95 as the stream will consume a lot more bandwidth while compression artifacts may still be visible!_ The default value is 70.
 
-**QoS**: Sets the UDP packets’ Quality of Service value. Refer to [this table](https://www.autoitscript.com/autoit3/docs/functions/IniWrite.htm) to see the commonly used DSCP values (see the decimal value column). The default value is 20.
+**QoS**: Sets the UDP packets’ Quality of Service value. Refer to [this table](https://en.wikipedia.org/wiki/Differentiated_services#Commonly_used_DSCP_values) to see the commonly used DSCP values (see the decimal value column). The default value is 20.
 
 **UseD2D**: Boolean. If set to True then Snickerstream will use Direct2D as its rendering backend, while if it’s set to False then GDI+ will be used instead. Unlike GDI+, Direct2D is hardware accelerated so **it’s highly recommended to use it if it’s supported on your setup!** The default value is True (if supported).
 
