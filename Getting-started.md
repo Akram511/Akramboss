@@ -42,6 +42,6 @@ NTR is the default streaming app for Snickerstream but depending on your necessi
 
 Have you decided which one to use yet? If so, follow one of the links below!
 
-Streaming with NTR
+[Streaming with NTR](https://github.com/RattletraPM/Snickerstream/wiki/Streaming-with-NTR)
 
-Streaming with HzMod
+[Streaming with HzMod](https://github.com/RattletraPM/Snickerstream/wiki/Streaming-with-HzMod)
