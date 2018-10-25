@@ -4,7 +4,7 @@ These articles will help you set up your streaming environment as well as giving
 
 ## Useful links:
 
-[** Getting started **](https://github.com/RattletraPM/Snickerstream/wiki/Getting-started) - A quick guide on how to set up Snickerstream using either NTR or HzMod.
+[**Getting started**](https://github.com/RattletraPM/Snickerstream/wiki/Getting-started) - A quick guide on how to set up Snickerstream using either NTR or HzMod.
 
 [**Multiple 3DS streaming guide**](https://github.com/RattletraPM/Snickerstream/wiki/Multiple-3DS-streaming-guide) - Helps you to stream more than one console to the same PC.
 
