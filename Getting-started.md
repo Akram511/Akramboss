@@ -28,7 +28,6 @@ Here are the pros and cons of each:
 * Supports streaming multiple 3DSes to the same PC out of the box
 * Doesn't close when soft resetting or closing a game
 * You can change the stream's quality in real time
-* It's still being developed and improved upon
 
 **Cons:**
 * Worse performance than NTR, but if still acceptable
