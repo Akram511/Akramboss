@@ -31,7 +31,7 @@ Here are the pros and cons of each:
 * It's still being developed and improved upon
 
 **Cons:**
-* Worse performance than NTR, but if still acceptable (keep in mind that most 3DS games run at 30FPS!)
+* Worse performance than NTR, but if still acceptable
 * The current version (the only one supported by Snickerstream right now, but that will change with the next updates) only streams the top screen
 * Some games stream their frames using TARGA, which Snickerstream currently does not support (again, this is a problem with Snickerstream that will be addressed soon)
 * Some games can experience slowdowns (you can tweak your settings to fix this, however)
