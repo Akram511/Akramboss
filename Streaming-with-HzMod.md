@@ -18,7 +18,7 @@ Are you ready? Great, let's get started then!
 
 **IP** - You must write your 3DS' IP address here. You could set a static one in the console's Internet settings or find out your own via several different methods (for example opening FTPD and looking at the first line of text on the top screen or opening FBI then going to Remote install -> Receive URLs over the network and looking at the bottom screen)
 
-**Image quality** - Setting this to a higher value will produce less compression artifacts but will make your framerate worse, and the opposite will do, well... the complete opposite. It's not recommended to set it any higher than 90 as compression will always occur (even at the maximum, aka 100!) while it's going to _absolutely kill_ your framerate, while setting it below 50 will produce noticeable artifacts. (Default: 70)
+**Image quality** - Setting this to a higher value will produce less compression artifacts but will make your framerate worse, and the opposite will do, well... the complete opposite. It's not recommended to set it any higher than 90 as compression will always occur (even at the maximum, aka 100!) while it's going to _absolutely kill_ your framerate, while setting it below 50 will produce noticeable artifacts. (Default: 70, but the recommended value is 42 as it'll give the best quality/framerate ratio)
 
 **Cap CPU cycles** - If some games suffer from slowdowns while streaming, set this value to something high. A value of 256 however will make the system module wait until VSync, which is almost nothing on New 2/3DS. (Default: 0)
 
