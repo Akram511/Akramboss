@@ -31,7 +31,7 @@ Are you ready? Great, let's get started then!
 
 8. (Optional) If a game tries to disable the Wi-Fi connection forcibly, you can either go back to the connection window (default hotkey: ENTER) and click on Send NFC patch or enable Luma3DS’ debugger (open the Rosalina menu, go on Debugger options and Enable debugger). 
 
-If you want to stream multiple 3DS consoles to the same PC
+If you want to stream multiple 3DS consoles to the same PC you will have to [follow this guide too.](https://github.com/RattletraPM/Snickerstream/wiki/Multiple-3DS-streaming-guide)
 
 If everything went fine then you're all good to go, you can start doing whatever you want with your stream, including going back to the connection window and tweaking some of the advanced settings to your pleasure, or maybe choosing another screen layout or interpolation mode. From now on all you have to do to stream your games is to open up NTR via BootNTR Selector and then repeat steps from 5 to 7. Have fun streaming!
 
