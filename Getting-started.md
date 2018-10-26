@@ -30,7 +30,7 @@ Here are the pros and cons of each:
 * You can change the stream's quality in real time
 
 **Cons:**
-* Worse performance than NTR, but if still acceptable
+* Worse performance than NTR, but it's still acceptable
 * The current version (the only one supported by Snickerstream right now, but that will change with the next updates) only streams the top screen
 * Some games stream their frames using TARGA, which Snickerstream currently does not support (again, this is a problem with Snickerstream that will be addressed soon)
 * Some games can experience slowdowns (you can tweak your settings to fix this, however)
