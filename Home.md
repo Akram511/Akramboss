@@ -13,5 +13,3 @@ These articles will help you set up your streaming environment as well as giving
 [**FAQ**](https://github.com/RattletraPM/Snickerstream/wiki/FAQ) - Check these before asking questions!
 
 [**Settings 101**](https://github.com/RattletraPM/Snickerstream/wiki/Settings-101) - Explains in detail what each setting does, as well as the various advanced and INI settings.
-
-Also if you need any kind of assistance, you can ask on the #snickerstream-help channel on [**Retrosol's Discord server!**](https://discord.gg/Yr4yvPp)
